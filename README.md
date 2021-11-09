@@ -22,3 +22,7 @@ Go to Control Panel → System and Security → System → Advanced System Setti
 Find the Path variable within System Variables, select it and click on edit.
 Add C:\Program Files\gs\gs9.23\bin (or the directory where you installed ghostscript to) to the Path variable. In Windows 10, you can do this by clicking on New and entering the path. In other Windows versions, just append the path to the variable value, seperated by a semicolon.
 Restart R
+
+- corrupted pandas!!!
+- fixing pandas corrupted camelot!!!
+- reinstalled camelot!

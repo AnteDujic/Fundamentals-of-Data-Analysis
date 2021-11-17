@@ -1,10 +1,10 @@
 CODE,TITLE,R1_POINTS_2019,R2_POINTS_2019,EOS_2019,MID_2019,R1_POINTS_2020,R2_POINTS_2020,EOS_2020,MID_2020,R1_POINTS_2021,R2_POINTS_2021
 AC120,International Business                            ,234,234,234,269.0,209,,209,280,294,294
 AC137,Liberal Arts                                      ,275,252,252,275.0,252,,252,270,271,270
-AD101,First Year Art &amp; Design (Common Entry)        ,,#+Matric,# +matric 550,,,#+matric,#+matric,#+matric,#554,
+AD101,First Year Art & Design (Common Entry)            ,#+Matric,,# +matric 550,,#+matric,,#+matric,#+matric,#554,
 AD102,Graphic Design and Moving Image Design            ,#+Matric,,# +matric 635,,#+matric,,#+matric,#+matric,#538,
-AD103,Textile &amp; Surface Design and Jewellery &amp; O,cts,#+Matric,# +matric 545,,cts,(,#+matric,#+matric,#505,
-AD202,Education &amp; Design or Fine Art (Second Level T,h,#+Matric,# +matric 580,,h,#+matric,#+matric,#+matric,#591,
+AD103,Textile & Surface Design and Jewellery & Objects  ,#+Matric,,# +matric 545,,#+matric,,#+matric,#+matric,#505,
+AD202,Education & Design or Fine Art (Second Level Teach,#+Matric,,# +matric 580,,#+matric,,#+matric,#+matric,#591,
 AD204,Fine Art                                          ,#+Matric,,# +matric 600,,#+matric,,#+matric,#+matric,#514,
 AD211,Fashion Design                                    ,#+Matric,,# +matric 600,,#+matric,,#+matric,#+matric,#760,#679
 AD212,Product Design                                    ,#+Matric,,# +matric 600,,#+matric,,#+matric,#+matric,#413,
@@ -337,7 +337,7 @@ DK831,Architectural Technology                          ,301,301,301,366.0,389,,
 DK832,Construction Management                           ,300,300,300,329.0,387,,387,419,358,305
 DK843,Engineering (Common Entry)                        ,345,,303,402.0,340,340,340,439,404,391
 DK844,Mechanical Engineering                            ,,,,,305,305,305,448,336,336
-DK845,Electrical &amp; Electronic Engineering           ,,,,,,304,304,392,331,331
+DK845,Electrical & Electronic Engineering               ,,,,,304,304,304,392,331,331
 DK846,Civil Engineering                                 ,,,,,391,361,361,392,371,371
 DK850,International Tourism Management                  ,,,,,317,317,317,377,303,303
 DK860,Music                                             ,#499,#499,#499,649.0,#532,#532,503,634,,
@@ -550,7 +550,7 @@ GC201,Accounting and Finance (Cork)                     ,251,251,251,388.0,303,3
 GC230,Computing Science (Cork)                          ,327,228,228,327.0,335,325,325,393,300,289
 GC250,Communications and Media Production               ,,,,,,,,,,
 GC300,Business Studies (Limerick)                       ,251,,251,302.0,429,,390,432,264,264
-GC301,Accounting and Finance                            ,307,,307,314.0,,253,253,346,,251
+GC301,Accounting and Finance                            ,307,,307,314.0,253,253,253,346,,251
 GC302,Business Studies - (HRM Limerick)                 ,,,269,269.0,,,,,377,377
 GC305,International Hospitality Management (Limerick)   ,,327,327,327.0,253,253,253,253,,
 GC307,Business (Marketing)                              ,,,,,,,,,289,270
@@ -598,13 +598,13 @@ GY201,Commerce                                          ,422,420,420,453.0,433,,
 GY202,Commerce (International) with French              ,484,,484,513.0,484,,484,511,520,
 GY203,Commerce (International) with German              ,489,,489,541.0,489,,489,566,518,
 GY204,Commerce (International) with Spanish             ,484,,484,500.0,495,,495,511,506,
-GY206,Business Information Systems (Work Placement &amp;,t,431,431,445.0,t,465,465,488,509,
+GY206,Business Information Systems (Work Placement & Opt,431,,431,445.0,465,,465,488,509,
 GY207,Commerce (Accounting) including optional Global Ex,486,,486,510.0,509,,509,543,543,
 GY208,Commerce (Gaeilge)                                ,473,,473,488.0,473,,473,511,508,
 GY209,Commerce (Global Experience)                      ,509,,509,531.0,530,,530,554,551,
-GY250,Law &amp; Business                                ,,436,436,467.0,487,,487,510,510,
+GY250,Law & Business                                    ,436,,436,467.0,487,,487,510,510,
 GY251,Law                                               ,473,,473,498.0,499,,499,518,542,
-GY252,Law &amp; Human Rights                            ,,510,510,521.0,520,,520,541,565,
+GY252,Law & Human Rights                                ,510,,510,521.0,520,,520,541,565,
 GY253,Law and Taxation                                  ,,,,,509,,509,543,506,
 GY254,Law (BCL)  Criminology and Criminal Justice       ,,,,,530,,530,554,548,
 GY261,Business Studies (International Hotel Management S,#486,,#486,615.0,#497,,497,611,#503,
@@ -676,12 +676,12 @@ LC362,Biotechnology and Biopharmaceutical Sciences      ,379,,379,402.0,413,,413
 LC371,Creative Broadcast and Film Production            ,313,293,298,339.0,309,,309,378,325,310
 LC372,Music Technology and Production                   ,357,321,321,369.0,325,,325,402,377,
 LC374,Renewable and Electrical Energy Engineering       ,351,317,317,368.0,318,,318,410,337,319
-LC375,Industrial Automation &amp; Robotic Systems       ,,321,321,368.0,317,,317,392,309,
+LC375,Industrial Automation & Robotic Systems           ,321,,321,368.0,317,,317,392,309,
 LC376,Electronic Engineering                            ,308,,308,346.0,318,,318,358,357,
 LC380,Automotive Engineering and Transport Management   ,300,282,282,329.0,303,298,298,337,298,
 LC392,Beauty and Spa Management                         ,252,217,217,318.0,236,,236,328,328,317
-LC393,Early Childhood Education &amp; Care              ,,270,260,309.0,236,,236,307,309,276
-LC401,Early Childhood Education &amp; Care (Thurles)    ,,337,298,387.0,297,,297,298,,
+LC393,Early Childhood Education & Care                  ,270,260,260,309.0,236,,236,307,309,276
+LC401,Early Childhood Education & Care (Thurles)        ,337,298,298,387.0,297,,297,298,,
 LC402,Social Care Work (Thurles)                        ,209,,209,290.0,225,,225,288,228,
 LC408,Environmental and Geographical Sciences (Thurles) ,262,,262,346.0,279,,279,348,279,
 LC411,Marketing and Management (Thurles)                ,300,226,226,300.0,,,,,,
@@ -694,7 +694,7 @@ LC502,Game Art and Design (Clonmel portfolio)           ,#838,,#838,950.0,#852,,
 LC517,Creative Media and Design (Clonmel)               ,229,,229,273.0,234,,234,327,279,
 LC518,Digital Animation Production (Clonmel portfolio)  ,#816,,#816,962.0,#808,,808,939,#807,
 LC612,Social Care Work (Ennis)                          ,319,,319,338.0,320,,320,343,309,
-LC613,Early Childhood Education &amp; Care (Ennis)      ,,346,346,388.0,242,,242,327,,
+LC613,Early Childhood Education & Care (Ennis)          ,346,,346,388.0,242,,242,327,,
 LM002,Arts (offered in conjunction with Mary Immaculate ,329,,329,388.0,348,,348,410,360*,360
 LM019,Social Sciences                                   ,,,,,,,,,451,
 LM020,Law and Accounting                                ,436,,436,476.0,465,,465,499,474,
@@ -734,9 +734,9 @@ LM116,Engineering (Biomedical/Civil/Design and Manufactu,434,,434,498.0,476*,,47
 LM118,Electronic and Computer Engineering               ,401,,401,498.0,403,,403,489,445,
 LM121,Computer Science (Computer Systems/Games Dev/Mobil,352,,352,420.0,351,,351,423,402,
 LM122,Creative Media and Interaction Design (Digital Des,330,,330,430.0,327,,327,401,382,
-LM123,Biological &amp; Chemical Sciences (Biosci/Envir S,I,412,412,455.0,I,441*,441,478,498*,
+LM123,Biological & Chemical Sciences (Biosci/Envir Sci/I,412,,412,455.0,441*,,441,478,498*,
 LM124,Mathematics (Math Science/Maths and Physics/Econom,427,,427,521.0,437,,437,509,455,
-LM125,Physics (Applied Physics/Mathematics and Physics) ,405,,405,509.0,),404,404,520,489,
+LM125,Physics (Applied Physics/Mathematics and Physics) ,405,,405,509.0,404,,404,520,489,
 LM150,General Nursing                                   ,440*,,440*,463.0,475*,,475,498,498*,487
 LM152,Mental Health Nursing                             ,398,388,388,418.0,419*,,419,430,478,466
 LM154,Intellectual Disability Nursing                   ,381*,,381*,408.0,420,,440,473,462,443
@@ -762,7 +762,7 @@ LY908,General Nursing                                   ,389*,388*,383,390.0,400
 LY918,Psychiatric Nursing                               ,329,321*,291*,332.0,357*,,357,387,367*,
 LY928,Intellectual Disability Nursing                   ,298,297,288,299.0,326*,,328,346,357,
 LY968,Early Childhood Care Health and Education         ,300,,300,336.0,303,,303,361,288,
-LY978,Health &amp; Social Care (Common Entry)           ,,260,260,299.0,,280,280,330,279,
+LY978,Health & Social Care (Common Entry)               ,260,,260,299.0,280,,280,330,279,
 MH001,Education - Primary Teaching (Froebel)            ,499,,496*,520.0,507,,507,531,564,
 MH002,Education - Primary Teaching - Gaeltacht Applicant,#,,#441*,,,,,,,
 MH003,Early Childhood - Teaching and Learning (full-time,,,,,,,,,381,
@@ -781,7 +781,7 @@ MH207,Data Science                                      ,434,,434,466.0,445,,445
 MH208,Biological and Biomedical Sciences                ,462*,455,451,476.0,498,,498,510,543,
 MH209,Psychology (through Science) - 4 years            ,477,473,473,485.0,498,,498,510,529,
 MH210,Pharmaceutical and Biomedical Chemistry           ,452,446,446,466.0,487,,487,520,510,
-MH212,Science/Computer Science/Mathematics (with Educati,451,444,444,476.0,;,App,422,487,452,443
+MH212,Science/Computer Science/Mathematics (with Educati,451,444,444,476.0,422,,422,487,452,443
 MH304,Engineering (Computer/Electronic/Communications)  ,371,,371,423.0,333,333,333,444,351,351
 MH305,Product Design                                    ,358,,358,411.0,357,,357,409,326,
 MH306,Robotics and Intelligent Devices                  ,361,,361,424.0,361,,361,433,362,
@@ -800,7 +800,7 @@ MH603,Computational Thinking                            ,520,,520,543.0,532,,532
 MH801,Early Childhood - Teaching and Learning (part-time,347,,347,358.0,327,,327,378,AQA,AQA
 MH802,Community and Youth Work (part-time in service    ,,,#,,#,#,#,,,#
 MH803,Local Studies or Community Studies (part-time even,,#,#,,#,#,#,,,#
-MI001,Contemporary &amp; Applied Theatre Studies        ,,345,345,381.0,,375,390,412,209,
+MI001,Contemporary & Applied Theatre Studies            ,345,,345,381.0,375,,390,412,209,
 MI002,Arts (offered in conjunction with the University o,300,,300,378.0,300,281,281,389,280,
 MI004,Education - Primary Teaching - International      ,,,,,577,,577,589,589,
 MI005,Education - Primary Teaching                      ,473*,,473*,506.0,495,,495,521,522,
@@ -1078,7 +1078,7 @@ TU951,International Hospitality and Tourism Management  ,,,,,184,184,200,298,244
 TU952,International Hospitality Management              ,,,,,300,,306,368,309,
 TU953,Tourism and Digital Marketing                     ,,,,,290,,290,359,308,
 TU954,Event Management                                  ,,,,,356,,356,404,326,
-TU955,Sports &amp; Leisure Management                   ,,,,,,217,217,347,275,
+TU955,Sports & Leisure Management                       ,,,,,217,317v,217,347,275,
 TU961,Commercial Modern Music                           ,,,,,#608,#608,608,848,#536,#536
 TU962,Drama (Performance)                               ,,,,,#379,,379,500,#448,
 TU963,Music                                             ,,,,,#416,,416,535,#364,

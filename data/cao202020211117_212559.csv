@@ -293,7 +293,7 @@ GC201,Accounting and Finance                            ,303,303
 GC230,Computing Science                                 ,335,325
 GC250,Communications and Media Production               ,,
 GC300,Business Studies                                  ,429,
-GC301,Accounting &amp; Finance                          ,,253
+GC301,Accounting & Finance                              ,253,253
 GC302,Business Studies - HRM                            ,,
 GC305,International Hospitality Management              ,253,253
 GC400,Business Studies                                  ,248,248
@@ -308,10 +308,10 @@ GC489,Interior Architecture (portfolio)                 ,#254,
 GC494,Fashion Design (portfolio)                        ,#337,#217
 ID001,Accounting and Finance                            ,203,
 ID002,Business Studies                                  ,294,
-AD101,First Year Art &amp; Design (Common Entry portfoli,,#+matric
+AD101,First Year Art & Design (Common Entry portfolio)  ,#+matric,
 AD102,Graphic Design and Moving Image Design (portfolio),#+matric,
-AD103,Textile &amp; Surface Design and Jewellery &amp; O,cts,(
-AD202,Education &amp; Design or Fine Art (Second Level T,h,#+matric
+AD103,Textile & Surface Design and Jewellery & Objects (,#+matric,
+AD202,Education & Design or Fine Art (Second Level Teach,#+matric,
 AD204,Fine Art (portfolio)                              ,#+matric,
 AD211,Fashion Design (portfolio)                        ,#+matric,
 AD212,Product Design (portfolio)                        ,#+matric,
@@ -417,7 +417,7 @@ TU951,International Hospitality and Tourism Management  ,184,184
 TU952,International Hospitality Management              ,300,
 TU953,Tourism and Digital Marketing                     ,290,
 TU954,Event Management                                  ,356,
-TU955,Sports &amp; Leisure Management                   ,,217
+TU955,Sports & Leisure Management                       ,217,317v
 TU961,Commercial Modern Music                           ,#608,#608
 TU962,Drama (Performance)                               ,#379,
 TU963,Music                                             ,#416,
@@ -554,7 +554,7 @@ DK831,Architectural Technology                          ,389,
 DK832,Construction Management                           ,387,
 DK843,Engineering (Common Entry)                        ,340,340
 DK844,Mechanical Engineering                            ,305,305
-DK845,Electrical &amp; Electronic Engineering           ,,304
+DK845,Electrical & Electronic Engineering               ,304,304
 DK846,Civil Engineering                                 ,391,361
 DK850,International Tourism Management                  ,317,317
 DK860,Music (audition)                                  ,#532,#532
@@ -654,7 +654,7 @@ GY201,Commerce                                          ,433,
 GY202,Commerce (International) with French              ,484,
 GY203,Commerce (International) with German              ,489,
 GY204,Commerce (International) with Spanish             ,495,
-GY206,Business Information Systems (Work Placement &amp;,t,465
+GY206,Business Information Systems (Work Placement & Opt,465,
 GY207,Commerce (Accounting) including optional Global Ex,509,
 GY208,Commerce (Gaeilge)                                ,473,
 GY209,Commerce (Global Experience)                      ,530,
@@ -711,8 +711,8 @@ LY908,General Nursing                                   ,400*,
 LY918,Psychiatric Nursing                               ,357*,
 LY928,Intellectual Disability Nursing                   ,326*,
 LY968,Early Childhood Care   Health and Education       ,303,
-LY978,Health &amp; Social Care - Common Entry           ,,280
-MI001,Contemporary &amp; Applied Theatre Studies        ,,375
+LY978,Health & Social Care - Common Entry               ,280,
+MI001,Contemporary & Applied Theatre Studies            ,375,
 MI002,Arts                                              ,300,281
 MI004,Education - Primary Teaching - International      ,577,
 MI005,Education - Primary Teaching                      ,495,
@@ -817,9 +817,9 @@ LM116,Engineering (Biomedical/Civil/Design and Manufactu,476*,
 LM118,Electronic and Computer Engineering               ,403,
 LM121,Computer Science (Computer Systems/Games Dev/Mobil,351,
 LM122,Creative Media and Interaction Design (Digital Des,327,
-LM123,Biological &amp; Chemical Sciences (Biosci/Envir S,I,441*
+LM123,Biological & Chemical Sciences (Biosci/Envir Sci/I,441*,
 LM124,Mathematics (Math Science/Maths and Physics/Econom,437,
-LM125,Physics (Applied Physics or Mathematics &amp; Phys,),404
+LM125,Physics (Applied Physics or Mathematics & Physics),404,
 LM150,General Nursing                                   ,475*,
 LM152,Mental Health Nursing                             ,419*,
 LM154,Intellectual Disability Nursing                   ,420,
@@ -843,7 +843,7 @@ MH207,Data Science                                      ,445,
 MH208,Biological and Biomedical Sciences                ,498,
 MH209,Psychology (through Science) - 4 years            ,498,
 MH210,Pharmaceutical and Biomedical Chemistry           ,487,
-MH212,Science or Maths &amp; Computer Science or Maths &,;,App
+MH212,Science or Maths & Computer Science or Maths & App,422,
 MH304,Engineering (Computer/Electronic/Communications)  ,333,333
 MH305,Product Design                                    ,357,
 MH306,Robotics and Intelligent Devices                  ,361,

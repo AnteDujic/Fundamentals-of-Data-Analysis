@@ -413,10 +413,10 @@ TA326,DNA and Forensic Analysis                         ,300,
 TA327,Sports Science and Health                         ,341,
 TA328,Computing with Language (French/German/Spanish)   ,262,262
 TA329,Computing with Data Analytics                     ,218,218
-AD101,First Year Art &amp; Design (Common Entry)        ,,#+Matric
+AD101,First Year Art & Design (Common Entry)            ,#+Matric,
 AD102,Graphic Design and Moving Image Design            ,#+Matric,
-AD103,Textile &amp; Surface Design and Jewellery &amp; O,cts,#+Matric
-AD202,Education &amp; Design or Fine Art (Second Level T,h,#+Matric
+AD103,Textile & Surface Design and Jewellery & Objects  ,#+Matric,
+AD202,Education & Design or Fine Art (Second Level Teach,#+Matric,
 AD204,Fine Art                                          ,#+Matric,
 AD211,Fashion Design                                    ,#+Matric,
 AD212,Product Design                                    ,#+Matric,
@@ -632,13 +632,13 @@ GY201,Commerce                                          ,422,420
 GY202,Commerce (International) with French              ,484,
 GY203,Commerce (International) with German              ,489,
 GY204,Commerce (International) with Spanish             ,484,
-GY206,Business Information Systems (Work Placement &amp;,t,431
+GY206,Business Information Systems (Work Placement & Opt,431,
 GY207,Commerce (Accounting) including optional Global Ex,486,
 GY208,Commerce (Gaeilge)                                ,473,
 GY209,Commerce (Global Experience)                      ,509,
-GY250,Law &amp; Business                                ,,436
+GY250,Law & Business                                    ,436,
 GY251,Law                                               ,473,
-GY252,Law &amp; Human Rights                            ,,510
+GY252,Law & Human Rights                                ,510,
 GY261,Business Studies (International Hotel Management S,#486,
 GY262,Commerce (International Hotel Management Shannon) ,#671,
 GY301,Science                                           ,400,
@@ -686,8 +686,8 @@ LY908,General Nursing                                   ,389*,388*
 LY918,Psychiatric Nursing                               ,329,321*
 LY928,Intellectual Disability Nursing                   ,298,297
 LY968,Early Childhood Care Health and Education         ,300,
-LY978,Health &amp; Social Care (Common Entry)           ,,260
-MI001,Contemporary &amp; Applied Theatre Studies        ,,345
+LY978,Health & Social Care (Common Entry)               ,260,
+MI001,Contemporary & Applied Theatre Studies            ,345,
 MI002,Arts (offered in conjunction with the University o,300,
 MI005,Education - Primary Teaching                      ,473*,
 MI006,Education - Primary Teaching (Gaeltacht Applicants,#442,
@@ -733,12 +733,12 @@ LC362,Biotechnology and Biopharmaceutical Sciences      ,379,
 LC371,Creative Broadcast and Film Production            ,313,293
 LC372,Music Technology and Production                   ,357,321
 LC374,Renewable and Electrical Energy Engineering       ,351,317
-LC375,Industrial Automation &amp; Robotic Systems       ,,321
+LC375,Industrial Automation & Robotic Systems           ,321,
 LC376,Electronic Engineering                            ,308,
 LC380,Automotive Engineering and Transport Management   ,300,282
 LC392,Beauty and Spa Management                         ,252,217
-LC393,Early Childhood Education &amp; Care              ,,270
-LC401,Early Childhood Education &amp; Care (Thurles)    ,,337
+LC393,Early Childhood Education & Care                  ,270,260
+LC401,Early Childhood Education & Care (Thurles)        ,337,298
 LC402,Social Care Work (Thurles)                        ,209,
 LC408,Environmental and Geographical Sciences (Thurles) ,262,
 LC411,Marketing and Management (Thurles)                ,300,226
@@ -749,7 +749,7 @@ LC502,Game Art and Design (Clonmel portfolio)           ,#838,
 LC517,Creative Media and Design (Clonmel)               ,229,
 LC518,Digital Animation Production (Clonmel portfolio)  ,#816,
 LC612,Social Care Work (Ennis)                          ,319,
-LC613,Early Childhood Education &amp; Care (Ennis)      ,,346
+LC613,Early Childhood Education & Care (Ennis)          ,346,
 LM002,Arts (offered in conjunction with Mary Immaculate ,329,
 LM020,Law and Accounting                                ,436,
 LM026,Performing Arts (audition required)               ,#307,
@@ -784,7 +784,7 @@ LM116,Engineering (Biomedical/Civil/Design and Manufactu,434,
 LM118,Electronic and Computer Engineering               ,401,
 LM121,Computer Science (Computer Systems/Games Dev/Mobil,352,
 LM122,Creative Media and Interaction Design (Digital Des,330,
-LM123,Biological &amp; Chemical Sciences (Biosci/Envir S,I,412
+LM123,Biological & Chemical Sciences (Biosci/Envir Sci/I,412,
 LM124,Mathematics (Math Science/Maths and Physics/Econom,427,
 LM125,Physics (Applied Physics/Mathematics and Physics) ,405,
 LM150,General Nursing                                   ,440*,

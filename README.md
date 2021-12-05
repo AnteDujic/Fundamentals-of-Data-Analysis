@@ -20,7 +20,38 @@ This notebook gives an overview of how to load CAO points information from the C
 
 ### THIS PROJECT
 
-The aim of this project is to learn how to collect the data from a website, clear the data and finally analyze and visualize the analysis done. I've used Jupyter Notebook for this purpose as it allows the presentation of both the code and the findings in a user friendly interface. There are 5 questions answered in this notebook:
+The aim of this project is to collect the data from a website, clear the data and finally analyze and visualize the analysis. I've used Jupyter Notebook for this purpose as it allows the presentation of both the code and the findings in a user friendly interface. 
+
+Before starting the analysis of the data on the CAO website I've done some reasearch to familiarize myself with the data and get the idea of what comparison I would like to do for the mentioned years. 
+A few major findings from my research:
+1. CAO uploads the points required before the academic year starts and the data contains Round 1 and then Round 2 points. After the year starts the information provided gets changed (same url), and then it contais EOS points and MID points.
+    - Round 1 and Round 2 points represent the required points to enter the given course, in first or second round
+    - EOS gives the final cut-off points, in other word, the points score achieved by the last applicant being offered a place on that course  [3]
+    - MID is the points score of the applicant midwaybetween the highest and the lowest applicant being offered a place  [3]
+  
+| YEAR | R1 | R2 | EOS | MID |
+| :-: | :-: |:-: | :-: | :-: |
+| 2019 | &#9744; | &#9744; | &#9745; | &#9745; |
+| 2020 | &#9745; | &#9745;  | &#9745;  | &#9745; |
+| 2021 | &#9745; | &#9745; | &#9744; | &#9744; |
+    
+*This CAO practice resulted in the data for each year having different variables and made the comparison for all the years difficult (e.g It was impossible to do a full comparison on 2019 vs 2021). To overcome this issue and get a better data for analysis, I've used the [The Internet Archive](https://web.archive.org/). This allowed me to obtain the data before the changes have been made.*
+   
+2. There are three different formats the data for each year has been uploaded as - html, pdf and xlxs and each format is structured differently
+    - html is the initial data, containing only Round 1 and Round 2 data
+    - pdf is the data that is uploaded after the academic year starts and contains only EOS and MID data
+    - xlxs is the data that is uploaded after the academic year starts and contains Round 1, Round 2, EOS, MID (and extra data)
+
+| YEAR | DATA FORMAT |
+| :-: | :-: |
+| 2019 | pdf |
+| 2020 | xlxs |
+| 2019 | html |
+
+*Due to the data being in different formats, there were different methods used to extract the data from the CAO website. More details on this in the notebook.*
+
+
+There are 5 questions answered in this notebook:
 
 1. What is CAO?
 2. How to load a data from a CAO website?

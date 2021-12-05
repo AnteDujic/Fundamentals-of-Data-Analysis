@@ -3,14 +3,14 @@
 
 
 This repository contains two Jupyter notebooks, done as a project for Fundamentals of Data Analysis module on GMIT, Ireland:
-1. cao.ipynb
+1. [cao.ipynb](#cao)
     - static version
     - interactive version
-2. pyplot.ipynb
+2. [pyplot.ipynb](#pyplot)
     - static version
     - interactive version
 
-## cao.ipynb
+## cao.ipynb <a id='cao'></a>
 
 This notebook gives an overview of how to load CAO points information from the CAO website into a pandas data frame and the comparison of CAO points in 2019, 2020, and 2021. 
 
@@ -28,12 +28,16 @@ A few major findings from my research:
     - Round 1 and Round 2 points represent the required points to enter the given course, in first or second round
     - EOS gives the final cut-off points, in other word, the points score achieved by the last applicant being offered a place on that course  [3]
     - MID is the points score of the applicant midwaybetween the highest and the lowest applicant being offered a place  [3]
-  
+
+<center>
+    
 | YEAR | R1 | R2 | EOS | MID |
 | :-: | :-: |:-: | :-: | :-: |
 | 2019 | &#9744; | &#9744; | &#9745; | &#9745; |
 | 2020 | &#9745; | &#9745;  | &#9745;  | &#9745; |
 | 2021 | &#9745; | &#9745; | &#9744; | &#9744; |
+    
+</center>
     
 *This CAO practice resulted in the data for each year having different variables and made the comparison for all the years difficult (e.g It was impossible to do a full comparison on 2019 vs 2021). To overcome this issue and get a better data for analysis, I've used the [The Internet Archive](https://web.archive.org/). This allowed me to obtain the data before the changes have been made.*
    
@@ -42,11 +46,15 @@ A few major findings from my research:
     - pdf is the data that is uploaded after the academic year starts and contains only EOS and MID data
     - xlxs is the data that is uploaded after the academic year starts and contains Round 1, Round 2, EOS, MID (and extra data)
 
+<center>
+     
 | YEAR | DATA FORMAT |
 | :-: | :-: |
 | 2019 | pdf |
 | 2020 | xlxs |
 | 2019 | html |
+
+</center>
 
 *Due to the data being in different formats, there were different methods used to extract the data from the CAO website. More details on this in the notebook.*
 
@@ -67,6 +75,8 @@ There are 5 questions answered in this notebook:
 
 ### HOW TO USE THIS PROJECT?
 
+### MY FINDINGS
+
 ### ISSUES ENCOUNTERED
 
 Error - not installed
@@ -84,6 +94,6 @@ Restart R
 
 
 
-## pyplot.ipynb
+## pyplot.ipynb <a id='pyplot'></a>
 
 An overview of the matplotlib.pyplot Python package. This notebook also contains an in-depth explanation of three plots from the matplotlib.pyplot Python package.

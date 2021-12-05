@@ -41,17 +41,17 @@ A few major findings from my research:
     
 *This CAO practice resulted in the data for each year having different variables and made the comparison for all the years difficult (e.g It was impossible to do a full comparison on 2019 vs 2021). To overcome this issue and get a better data for analysis, I've used the [The Internet Archive](https://web.archive.org/). This allowed me to obtain the data before the changes have been made.*
    
-2. There are three different formats the data for each year has been uploaded as - html, pdf and xlxs and each format is structured differently
+2. There are three different formats the data for each year has been uploaded as - html, pdf and xlsx and each format is structured differently
     - html is the initial data, containing only Round 1 and Round 2 data
     - pdf is the data that is uploaded after the academic year starts and contains only EOS and MID data
-    - xlxs is the data that is uploaded after the academic year starts and contains Round 1, Round 2, EOS, MID (and extra data)
+    - xlsx is the data that is uploaded after the academic year starts and contains Round 1, Round 2, EOS, MID (and extra data)
 
 <center>
      
 | YEAR | DATA FORMAT |
 | :-: | :-: |
 | 2019 | pdf |
-| 2020 | xlxs |
+| 2020 | xlsx |
 | 2019 | html |
 
 </center>

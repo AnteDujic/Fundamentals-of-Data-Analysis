@@ -4,11 +4,11 @@
 
 This repository contains two Jupyter notebooks, done as a project for Fundamentals of Data Analysis module on GMIT, Ireland:
 1. [cao.ipynb](#cao)
-    - [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/cao.ipynb)
-    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/cao.ipynb/HEAD)
+    - [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/cao.ipynb) *click to see static version* 
+    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/cao.ipynb/HEAD) *click to see interactive version* 
 2. [pyplot.ipynb](#pyplot)
-    - [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/pyplot.ipynb)
-    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/pyplot.ipynb/HEAD)
+    - [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/pyplot.ipynb) *click to see static version* 
+    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/pyplot.ipynb/HEAD) *click to see interactive version* 
 
 ## cao.ipynb <a id='cao'></a>
 
@@ -37,7 +37,6 @@ The aim of this project is to give an overview of how to load CAO points informa
 
 Majority of the courses have only the numeric value, representing the points. Certain courses could also have descriptive symbols, along the numeric value or without it. The mentioned symbols are:
 
-| SYMBOL | MEANING |
 | :-: | :- |
 | * | Not all on this points score were offered places |
 | # | Test / Interview / Portfolio / Audition |

@@ -36,7 +36,7 @@ The aim of this project is to give an overview of how to load CAO points informa
 4. MID POINTS - the points score of the applicant midwaybetween the highest and the lowest applicant being offered a place [3]
 
 Majority of the courses have only the numeric value, representing the points. Certain courses could also have descriptive symbols, along the numeric value or without it. The mentioned symbols are:
-
+|||
 | :-: | :- |
 | * | Not all on this points score were offered places |
 | # | Test / Interview / Portfolio / Audition |

@@ -4,15 +4,23 @@
 
 This repository contains two Jupyter notebooks, done as a project for Fundamentals of Data Analysis module on GMIT, Ireland:
 1. [cao.ipynb](#cao)
-    - static version
-    - interactive version
+    - [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/cao.ipynb)
+    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/cao.ipynb/HEAD)
 2. [pyplot.ipynb](#pyplot)
-    - static version
-    - interactive version
+    - [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/pyplot.ipynb)
+    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/pyplot.ipynb/HEAD)
 
 ## cao.ipynb <a id='cao'></a>
 
-This notebook gives an overview of how to load CAO points information from the CAO website into a pandas data frame and the comparison of CAO points in 2019, 2020, and 2021. 
+This notebook contains the data analysis of the CAO points.
+
+### HOW TO RUN THIS PROJECT?
+
+1. Download [Anaconda](https://docs.anaconda.com/anaconda/install/windows/)
+2. Download [cmder](https://cmder.net/)
+3. Run Jupyter Lab or Jupyter Notebook
+
+### HOW TO USE THIS PROJECT?
 
 ### WHAT IS CAO?
 
@@ -20,14 +28,26 @@ This notebook gives an overview of how to load CAO points information from the C
 
 ### THIS PROJECT
 
-The aim of this project is to collect the data from a website, clear the data and finally analyze and visualize the analysis. I've used Jupyter Notebook for this purpose as it allows the presentation of both the code and the findings in a user friendly interface. 
+The aim of this project is to give an overview of how to load CAO points information from the CAO website into a pandas data frame and the comparison of CAO points in 2019, 2020, and 2021. After conducting a research I've decided to do the comparison on the following variables:
 
-Before starting the analysis of the data on the CAO website I've done some reasearch to familiarize myself with the data and get the idea of what comparison I would like to do for the mentioned years. 
-A few major findings from my research:
+1. ROUND 1 POINTS - the required points to enter the given course in the first round
+2. ROUND 2 POINTS - the required points to enter the given course in the second round
+3. EOS POINTS - the final cut-off points, in other word, the points score achieved by the last applicant being offered a place on that course [3]
+4. MID POINTS - the points score of the applicant midwaybetween the highest and the lowest applicant being offered a place [3]
+
+Majority of the courses have only the numeric value, representing the points. Certain courses could also have descriptive symbols, along the numeric value or without it. The mentioned symbols are:
+
+| SYMBOL | MEANING |
+| :-: | :- |
+| * | Not all on this points score were offered places |
+| # | Test / Interview / Portfolio / Audition |
+| AQA | All qualified applicants |
+| v | New competition for available places |
+ 
+ 
+A few major findings that impacted the analysis approach:
+
 1. CAO uploads the points required before the academic year starts and the data contains Round 1 and then Round 2 points. After the year starts the information provided gets changed (same url), and then it contais EOS points and MID points.
-    - Round 1 and Round 2 points represent the required points to enter the given course, in first or second round
-    - EOS gives the final cut-off points, in other word, the points score achieved by the last applicant being offered a place on that course  [3]
-    - MID is the points score of the applicant midwaybetween the highest and the lowest applicant being offered a place  [3]
 
 <center>
     
@@ -66,14 +86,6 @@ There are 5 questions answered in this notebook:
 3. How to clear the data?
 4. How to analyse and visually represent the analysis?
 5. What is the difference between the data in 2019., 2020. and 2021.?
-
-### HOW TO RUN THIS PROJECT?
-
-1. Download [Anaconda](https://docs.anaconda.com/anaconda/install/windows/)
-2. Download [cmder](https://cmder.net/)
-3. Run Jupyter Lab or Jupyter Notebook
-
-### HOW TO USE THIS PROJECT?
 
 ### MY FINDINGS
 

@@ -115,10 +115,14 @@ An overview of the matplotlib.pyplot Python package. Matplotlib is a comprehensi
 
 #### SCATTERPLOT
 
-[<center><img src="https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/Scatterplot.png" width="100"/></center> ]
+![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/Scatterplot.png)
 
+![]()
 
 #### HISTOGRAM
 
+![]()
 
 #### BOXPLOT
+
+![]()

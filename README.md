@@ -121,8 +121,8 @@ An overview of the matplotlib.pyplot Python package. Matplotlib is a comprehensi
 
 #### HISTOGRAM
 
-![]()
+![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/Histogram.png)
 
 #### BOXPLOT
 
-![]()
+![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/Boxplot.png)

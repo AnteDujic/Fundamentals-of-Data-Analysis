@@ -108,21 +108,27 @@ Restart R
 
 ## pyplot.ipynb <a id='pyplot'></a>
 
-An overview of the matplotlib.pyplot Python package. Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. [3] There are three plots explained in this notebook using matplotlib package. Different package functionalities are used in the explanations to demonstrate what can be done with the package. It is also shown how plots give an instant insight into the data after understanding these plots. Iris flower dataset has been used for this purpose. The mentioned plots are:
+An overview of the matplotlib.pyplot Python package. Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. [3] There are three plots explained in this notebook using matplotlib package. Different package functionalities are used in the explanations to demonstrate what can be done with the package. It is also shown how plots give an instant insight into the data after understanding these plots. Iris flower dataset has been used for this purpose. This dataset is a multivariate dataset that is often used in data mining, classification and clustering examples and to test algorithms. [] Only certain features of the given dataset are being plotted, only to show how useful plotting the data can be.
+
+The three mentioned plots are:
 1. Scatterplot
 2. Histogram
 3. Boxplot
 
 #### SCATTERPLOT
 
+A scatterplot is a type of data display that shows the relationship between two numerical variables.[13] The data are displayed as a collection of points, each having the value of one variable determining the position on the horizontal axis and the value of the other variable determining the position on the vertical axis. [14] 
+
 ![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/Scatterplot.png)
 
-![]()
-
 #### HISTOGRAM
+
+A histogram is an approximate representation of the distribution of numerical data. [16] They are commonly used in statistics to demonstrate how many of a certain type of variable occurs within a specific range. [17]
 
 ![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/Histogram.png)
 
 #### BOXPLOT
+
+Box plot is a method for graphically demonstrating the locality, spread and skewness groups of numerical data through their quartiles. [20] Box plots show the five-number summary of a set of data: including the minimum score, first (lower) quartile, median, third (upper) quartile, and maximum score. [21]
 
 ![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/Boxplot.png)

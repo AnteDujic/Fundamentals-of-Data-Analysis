@@ -10,10 +10,6 @@ This repository contains two Jupyter notebooks, done as a project for Fundamenta
     - [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/pyplot.ipynb) *click to see static version* 
     - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/pyplot.ipynb/HEAD) *click to see interactive version* 
 
-## cao.ipynb <a id='cao'></a>
-
-This notebook contains the data analysis of the CAO points.
-
 ### HOW TO RUN THIS PROJECT?
 
 1. Download [Anaconda](https://docs.anaconda.com/anaconda/install/windows/)
@@ -21,6 +17,11 @@ This notebook contains the data analysis of the CAO points.
 3. Run Jupyter Lab or Jupyter Notebook
 
 ### HOW TO USE THIS PROJECT?
+
+***
+
+## cao.ipynb <a id='cao'></a>
+This notebook contains the data analysis of the CAO points.
 
 ### WHAT IS CAO?
 
@@ -103,8 +104,21 @@ Restart R
 - fixing pandas corrupted camelot!!!
 - reinstalled camelot!
 
-
+***
 
 ## pyplot.ipynb <a id='pyplot'></a>
 
-An overview of the matplotlib.pyplot Python package. This notebook also contains an in-depth explanation of three plots from the matplotlib.pyplot Python package.
+An overview of the matplotlib.pyplot Python package. Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. [3] There are three plots explained in this notebook using matplotlib package. Different package functionalities are used in the explanations to demonstrate what can be done with the package. It is also shown how plots give an instant insight into the data after understanding these plots. Iris flower dataset has been used for this purpose. The mentioned plots are:
+1. Scatterplot
+2. Histogram
+3. Boxplot
+
+#### SCATTERPLOT
+
+[<center><img src="" width="100"/></center> ]
+
+
+#### HISTOGRAM
+
+
+#### BOXPLOT

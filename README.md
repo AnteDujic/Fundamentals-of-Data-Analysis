@@ -89,13 +89,20 @@ There are 5 questions answered in this notebook:
 
 ### MY FINDINGS
 
-![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/Describe.png)
+There were 1214 different courses running from 2019 to 2021 of which:
+ - 930 were listed in 2019
+ - 961 were listed in 2020
+ - 949 were listed in 2021
+
+Not all the listed courses had the points running in Round 1.
 
 ![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/count_courses.png)
 
-![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/points_boxplot.png)
 
-![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/points_kde.png)
+
+![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/Describe.png)
+
+![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/points_boxplot.png)
 
 ### ISSUES ENCOUNTERED
 

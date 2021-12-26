@@ -89,6 +89,14 @@ There are 5 questions answered in this notebook:
 
 ### MY FINDINGS
 
+![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/Describe.png)
+
+![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/count_courses.png)
+
+![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/points_boxplot.png)
+
+![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/points_kde.png)
+
 ### ISSUES ENCOUNTERED
 
 Error - not installed

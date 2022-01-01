@@ -98,32 +98,15 @@ Not all the listed courses had the points running in Round 1.
 
 ![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/count_courses.png)
 
-
-
 ![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/Describe.png)
 
 ![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/points_boxplot.png)
-
-### ISSUES ENCOUNTERED
-
-Error - not installed
-fix
-https://rnbeads.org/data/installing_rnbeads.html
-After installing ghostscript, we still need to tell R where to find ghostscript. To do so, it is necessary to set adapt your system’s Path variable:
-Go to Control Panel → System and Security → System → Advanced System Settings → computer name, domain and workgroup settings → Advanced → Environment Variables
-Find the Path variable within System Variables, select it and click on edit.
-Add C:\Program Files\gs\gs9.23\bin (or the directory where you installed ghostscript to) to the Path variable. In Windows 10, you can do this by clicking on New and entering the path. In other Windows versions, just append the path to the variable value, seperated by a semicolon.
-Restart R
-
-- corrupted pandas!!!
-- fixing pandas corrupted camelot!!!
-- reinstalled camelot!
 
 ***
 
 ## pyplot.ipynb <a id='pyplot'></a>
 
-An overview of the matplotlib.pyplot Python package. Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. [3] There are three plots explained in this notebook using matplotlib package. Different package functionalities are used in the explanations to demonstrate what can be done with the package. It is also shown how plots give an instant insight into the data after understanding these plots. Iris flower dataset has been used for this purpose. This dataset is a multivariate dataset that is often used in data mining, classification and clustering examples and to test algorithms. [] Only certain features of the given dataset are being plotted, only to show how useful plotting the data can be.
+An overview of the matplotlib.pyplot Python package. Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. [3] There are three plots explained in this notebook using matplotlib package. Different package functionalities are used in the explanations to demonstrate what can be done with the package.
 
 The three mentioned plots are:
 1. Scatterplot
@@ -147,3 +130,5 @@ A histogram is an approximate representation of the distribution of numerical da
 Box plot is a method for graphically demonstrating the locality, spread and skewness groups of numerical data through their quartiles. [20] Box plots show the five-number summary of a set of data: including the minimum score, first (lower) quartile, median, third (upper) quartile, and maximum score. [21]
 
 ![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/Boxplot.png)
+
+After understanding these plots it is very easy to make instant conclusions about the data. Iris Dataset has been used here as an example. This dataset is a multivariate dataset that is often used in data mining, classification and clustering examples and to test algorithms. [] Only certain features of the given dataset are being plotted, just to show how useful plotting the data can be. 

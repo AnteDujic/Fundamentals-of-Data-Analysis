@@ -1,15 +1,16 @@
 # FUNDAMENTALS OF DATA ANALYSIS | PROJECT | 2021/2022
 ### AUTHOR: ANTE DUJIC
-
+***
 
 This repository contains two Jupyter notebooks, done as a project for Fundamentals of Data Analysis module on GMIT, Ireland. It also contains this README file with an overview of the mentioned notebooks, requirements file with a list of necessary libraries to run this project and two folders, data and plots.
 
 ### HOW TO RUN THIS PROJECT?
 
-1. Clone the repository from the [GitHub](git@github.com:AnteDujic/Fundamentals-of-Data-Analysis.git)
+1. Clone the repository from the [GitHub](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis.git)
 2. Download [Anaconda](https://docs.anaconda.com/anaconda/install/windows/)
 3. Download [cmder](https://cmder.net/)
 4. Run Jupyter Lab or Jupyter Notebook
+5. Open the wanted notebook in Jupyter
 
 The two notebooks in this repository are:
 
@@ -160,6 +161,13 @@ Box plot is a method for graphically demonstrating the locality, spread and skew
 ![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/Boxplot.png)
 
 After understanding these plots it is very easy to make instant conclusions about the data. Iris Dataset has been in this notebook as an example. This dataset is a multivariate dataset that is often used in data mining, classification and clustering examples and to test algorithms. [26,27] Only certain features of the given dataset are being plotted, just to show how useful plotting the data can be.
+
+***
+
+### REFERENCES 
+- LISTED IN CORRESPONDING NOTEBOOKS
+
+***
 
 ### CREDITS
 

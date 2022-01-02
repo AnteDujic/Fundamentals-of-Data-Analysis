@@ -5,3 +5,6 @@ pandas
 urllib.request
 camelot
 html
+numpy
+matplotlib
+seaborn

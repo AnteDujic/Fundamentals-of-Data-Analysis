@@ -2,21 +2,23 @@
 ### AUTHOR: ANTE DUJIC
 
 
-This repository contains two Jupyter notebooks, done as a project for Fundamentals of Data Analysis module on GMIT, Ireland:
+This repository contains two Jupyter notebooks, done as a project for Fundamentals of Data Analysis module on GMIT, Ireland. It also contains this README file with an overview of the mentioned notebooks, requirements file with a list of necessary libraries to run this project and two folders, data and plots.
+
+### HOW TO RUN THIS PROJECT?
+
+1. Clone the repository from the [GitHub](git@github.com:AnteDujic/Fundamentals-of-Data-Analysis.git)
+2. Download [Anaconda](https://docs.anaconda.com/anaconda/install/windows/)
+3. Download [cmder](https://cmder.net/)
+4. Run Jupyter Lab or Jupyter Notebook
+
+The two notebooks in this repository are:
+
 1. [cao.ipynb](#cao)
     - [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/cao.ipynb) *click to see static version* 
     - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/cao.ipynb/HEAD) *click to see interactive version* 
 2. [pyplot.ipynb](#pyplot)
     - [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/pyplot.ipynb) *click to see static version* 
     - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/pyplot.ipynb/HEAD) *click to see interactive version* 
-
-### HOW TO RUN THIS PROJECT?
-
-1. Download [Anaconda](https://docs.anaconda.com/anaconda/install/windows/)
-2. Download [cmder](https://cmder.net/)
-3. Run Jupyter Lab or Jupyter Notebook
-
-### HOW TO USE THIS PROJECT?
 
 ***
 
@@ -25,7 +27,7 @@ This notebook contains the data analysis of the CAO points.
 
 ### WHAT IS CAO?
 
-[Central Applications Office (CAO)](https://www.cao.ie/) has the purpose to process applications for undergraduate courses in Irish Higher Education Institutions. Students applying for admission to third level education courses in Ireland apply to the CAO rather than to individual educational institutions such as colleges and universities. The CAO then offers places to students who meet the minimum requirements for a course for which they have applied.
+[Central Applications Office (CAO)](https://www.cao.ie/) has the purpose to process applications for undergraduate courses in Irish Higher Education Institutions. [1] Students applying for admission to third level education courses in Ireland apply to the CAO rather than to individual educational institutions such as colleges and universities. The CAO then offers places to students who meet the minimum requirements for a course for which they have applied. [2]
 
 ### THIS PROJECT
 
@@ -157,7 +159,7 @@ Box plot is a method for graphically demonstrating the locality, spread and skew
 
 ![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/Boxplot.png)
 
-After understanding these plots it is very easy to make instant conclusions about the data. Iris Dataset has been in this notebook as an example. This dataset is a multivariate dataset that is often used in data mining, classification and clustering examples and to test algorithms. [] Only certain features of the given dataset are being plotted, just to show how useful plotting the data can be.
+After understanding these plots it is very easy to make instant conclusions about the data. Iris Dataset has been in this notebook as an example. This dataset is a multivariate dataset that is often used in data mining, classification and clustering examples and to test algorithms. [26,27] Only certain features of the given dataset are being plotted, just to show how useful plotting the data can be.
 
 ### CREDITS
 

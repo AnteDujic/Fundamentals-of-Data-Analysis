@@ -130,7 +130,10 @@ Points Destribution is shown below.
 
 ![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/points_kde.png)
 
-
+- Round 1 | Half of the courses in 2019 have points between approx. 300 and 430. This spread increases with each year but remains around the similiar range. The total spread of the points also increases with each year. In 2019 there are not many courses with low points required.
+- Round 2 | Similarly to Round 1, most of the points are spread around 400, with a small increase each year. Minimum points required were the lowest in 2021.
+- EOS | The spread in 2020 is bigger in 2020, compared to 2019. There are more courses with low and high values in 2020.
+- MID | Same as with EOS points, the spread is bigger in 2020. Most of the courses points are distributed in a slightly higher range.
 
 ***
 

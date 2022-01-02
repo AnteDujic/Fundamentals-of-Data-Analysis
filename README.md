@@ -29,7 +29,17 @@ This notebook contains the data analysis of the CAO points.
 
 ### THIS PROJECT
 
-The aim of this project is to give an overview of how to load CAO points information from the CAO website into a pandas data frame and the comparison of CAO points in 2019, 2020, and 2021. After conducting a research I've decided to do the comparison on the following variables:
+The aim of this project is to give an overview of how to load CAO points information from the CAO website into a pandas data frame and the comparison of CAO points in 2019, 2020, and 2021.
+
+There are 5 questions answered in this notebook:
+
+1. What is CAO?
+2. How to load a data from a CAO website?
+3. How to clear the data?
+4. How to analyse and visually represent the analysis?
+5. What is the difference between the data in 2019., 2020. and 2021.?
+
+After conducting a research I've decided to do the comparison on the following variables:
 
 1. ROUND 1 POINTS - the required points to enter the given course in the first round
 2. ROUND 2 POINTS - the required points to enter the given course in the second round
@@ -79,14 +89,6 @@ A few major findings that impacted the analysis approach:
 *Due to the data being in different formats, there were different methods used to extract the data from the CAO website. More details on this in the notebook.*
 
 
-There are 5 questions answered in this notebook:
-
-1. What is CAO?
-2. How to load a data from a CAO website?
-3. How to clear the data?
-4. How to analyse and visually represent the analysis?
-5. What is the difference between the data in 2019., 2020. and 2021.?
-
 ### MY FINDINGS
 
 There were 1214 different courses running from 2019 to 2021 of which:
@@ -131,4 +133,4 @@ Box plot is a method for graphically demonstrating the locality, spread and skew
 
 ![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/Boxplot.png)
 
-After understanding these plots it is very easy to make instant conclusions about the data. Iris Dataset has been used here as an example. This dataset is a multivariate dataset that is often used in data mining, classification and clustering examples and to test algorithms. [] Only certain features of the given dataset are being plotted, just to show how useful plotting the data can be. 
+After understanding these plots it is very easy to make instant conclusions about the data. Iris Dataset has been in this notebook as an example. This dataset is a multivariate dataset that is often used in data mining, classification and clustering examples and to test algorithms. [] Only certain features of the given dataset are being plotted, just to show how useful plotting the data can be. 

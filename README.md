@@ -98,9 +98,10 @@ There were 1214 different courses running from 2019 to 2021 of which:
 
 *Not all the listed courses had the points running in Round 1.
 
-![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/count_courses.png) { width: 200px; }
+![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/count_courses.png)
 
-As stated above, certain courses had other conditions too.
+This plot shows the number of listed courses with points in Round 1 and Round 2, but also the EOS and MID, for each year. The hatched part of the bars show the number of courses in the total that had extra conditions other then just the points.
+
 | | R1 2019| R1 2020 | R1 2021 | R2 2019 | R2 2020 | R2 2021|
 | :-: | :-: | :-: | :-: | :-: | :-: |:-: |
 | * | 34 | 43 | 75 | 24 | 29 | 51 |
@@ -108,9 +109,24 @@ As stated above, certain courses had other conditions too.
 | AQA | 10 | 2 | 1 | 3 | 1 | 1 |
 | v | 0 | 0 | 0 | 0 | 3 | 0 |
 
+Output of Pandas *describe* function:
+
 ![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/Describe.png)
 
+- Round 1 in 2021 has the most courses listed and the avarage points are the highest. Also, 2021 has the highest avarage points in Round 2.
+- Avarage points in both Rounds increased with each year.
+- Avarage EOS points increased from 377.16 in 2019. to 391.8 in 2020. These points are very close to Round 1 points in both 2019 and 2020.
+- Avarage MID points are higher then Round 1 or Round 2 points in both 2019 and 2020. Also, avarage MID points increased from 424.7 in 2019. to 448.20 in 2020.
+- Minimum points required to get to course in Round 1 was the highest in 2019, and dropped from 59 to 57 the following two years. Minimum points in Round 2 in 2019 stand out as being very high - 146.
+- Mazimum points reqired to get to course in Round 1 was the highest in 2020. and lowest in 2019.
+
+Points Destribution is shown below.
+
 ![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/points_boxplot.png)
+
+![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/points_kde.png)
+
+
 
 ***
 

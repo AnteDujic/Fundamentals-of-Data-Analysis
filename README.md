@@ -100,7 +100,7 @@ There were 1214 different courses running from 2019 to 2021 of which:
 
 ![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/count_courses.png)
 
-This plot shows the number of listed courses with points in Round 1 and Round 2, but also the EOS and MID, for each year. The hatched part of the bars show the number of courses in the total that had extra conditions other then just the points.
+The plot above shows the number of listed courses with points in Round 1 and Round 2, but also the EOS and MID, for each year. The hatched part of the bars show the number of courses in the total that had extra conditions other then just the points. Below is breakdown of those courses (NOTE: Courses can have multiple conditions.)
 
 | | R1 2019| R1 2020 | R1 2021 | R2 2019 | R2 2020 | R2 2021|
 | :-: | :-: | :-: | :-: | :-: | :-: |:-: |
@@ -157,4 +157,11 @@ Box plot is a method for graphically demonstrating the locality, spread and skew
 
 ![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/Boxplot.png)
 
-After understanding these plots it is very easy to make instant conclusions about the data. Iris Dataset has been in this notebook as an example. This dataset is a multivariate dataset that is often used in data mining, classification and clustering examples and to test algorithms. [] Only certain features of the given dataset are being plotted, just to show how useful plotting the data can be. 
+After understanding these plots it is very easy to make instant conclusions about the data. Iris Dataset has been in this notebook as an example. This dataset is a multivariate dataset that is often used in data mining, classification and clustering examples and to test algorithms. [] Only certain features of the given dataset are being plotted, just to show how useful plotting the data can be.
+
+### CREDITS
+
+1. http://www.cao.ie/index.php
+2. https://web.archive.org/
+3. https://github.com/harrisonjansma/Analyzing_Medium
+4. https://github.com/ianmcloughlin/cao-points/blob/main/cao-points-analysis.ipynb

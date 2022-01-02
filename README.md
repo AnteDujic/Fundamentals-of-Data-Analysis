@@ -12,15 +12,16 @@ This repository contains two Jupyter notebooks, done as a project for Fundamenta
 4. Run Jupyter Lab or Jupyter Notebook
 5. Open the wanted notebook in Jupyter
 
+Alternatively:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AnteDujic/Fundamentals-of-Data-Analysis/HEAD) *click to see interactive version* 
+
 The two notebooks in this repository are:
 
 1. [cao.ipynb](#cao)
     - [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/cao.ipynb) *click to see static version* 
-    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/cao.ipynb/HEAD) *click to see interactive version* 
 2. [pyplot.ipynb](#pyplot)
     - [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/pyplot.ipynb) *click to see static version* 
-    - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/pyplot.ipynb/HEAD) *click to see interactive version* 
-
 ***
 
 ## cao.ipynb <a id='cao'></a>

@@ -2,8 +2,8 @@ requests
 datetime
 pandas
 camelot
+ghostscript
 html
 numpy
 matplotlib
 seaborn
-ghostscript

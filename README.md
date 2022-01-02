@@ -98,14 +98,15 @@ There were 1214 different courses running from 2019 to 2021 of which:
 
 *Not all the listed courses had the points running in Round 1.
 
+![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/count_courses.png) { width: 200px; }
+
+As stated above, certain courses had other conditions too.
 | | R1 2019| R1 2020 | R1 2021 | R2 2019 | R2 2020 | R2 2021|
 | :-: | :-: | :-: | :-: | :-: | :-: |:-: |
 | * | 34 | 43 | 75 | 24 | 29 | 51 |
 | # | 88  | 87 | 81 | 15 | 16 | 17 |
 | AQA | 10 | 2 | 1 | 3 | 1 | 1 |
 | v | 0 | 0 | 0 | 0 | 3 | 0 |
-
-![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/count_courses.png)
 
 ![](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/plots/Describe.png)
 
